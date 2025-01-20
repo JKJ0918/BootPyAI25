@@ -19,3 +19,6 @@ FastAPI와 ASGI
 FastAPI 서버 실행
   - main.py 실행
   - Terminal에서 D:\phthonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
+
+
+![image](https://github.com/user-attachments/assets/2ec88e63-0586-468c-850e-cb413253e1cc)
